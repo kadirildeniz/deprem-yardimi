@@ -11,6 +11,9 @@
 #source::placeholder{
     color: #cc6161 !important;
 }
+.dataTables_filter {
+    margin-bottom: 10px;
+}
 </style>
 @endsection
 
